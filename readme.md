@@ -1,0 +1,1 @@
+Simple CRUD API with its description for using in mobile app API constructor
